@@ -15,10 +15,11 @@
   },
   "keywords": [
     "tarun",
-    "about"
+    "about",
+    "bread"
   ],
   "author": "Tarun Gupta",
-  "license": "Apache-2.0",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/MaybeTarun/hi-bread/issues"
   },
