@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 function tarun() {
     const link1 = 'https://maybetarun.vercel.app/';
     const link2 = 'https://github.com/maybetarun';
