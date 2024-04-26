@@ -1,4 +1,4 @@
-export function tarun() {
+function tarun() {
     const link1 = 'https://maybetarun.vercel.app/';
     const link2 = 'https://github.com/maybetarun';
     const link3 = 'http://www.linkedin.com/in/maybetarun';

@@ -3,9 +3,8 @@
   "version": "2.0.0",
   "description": "An npm package that shows about me",
   "main": "index.js",
-  "type": "module",
   "scripts": {
-    "test": "npm run dev"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
