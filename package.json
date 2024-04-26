@@ -1,0 +1,24 @@
+{
+  "name": "hi-bread",
+  "version": "2.0.0",
+  "description": "An npm package that shows about me",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaybeTarun/hi-bread.git"
+  },
+  "keywords": [
+    "tarun",
+    "about"
+  ],
+  "author": "Tarun Gupta",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/MaybeTarun/hi-bread/issues"
+  },
+  "homepage": "https://github.com/MaybeTarun/hi-bread#readme"
+}
