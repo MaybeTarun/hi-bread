@@ -1,1 +1,1 @@
-# hi-bread
+run ```npx hi-bread``` in your terminal
