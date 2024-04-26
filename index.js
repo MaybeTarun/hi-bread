@@ -5,7 +5,7 @@ function tarun() {
     const link3 = 'http://www.linkedin.com/in/maybetarun';
     const link4 = 'https://twitter.com/maybetarun';
     const link5 = 'https://instagram.com/maybe._.tarun';
-    const links = '\n\x1b[37mMy Website:\x1b[0m \x1b[38;5;39m${link1} \n\x1b[37mGitHub:\x1b[0m \x1b[38;5;39m${link2} \n\x1b[37mLinkedIn:\x1b[0m \x1b[38;5;39m${link3} \n\x1b[37mTwitter(𝕏):\x1b[0m \x1b[38;5;39m${link4} \n\x1b[37mInstagram:\x1b[0m \x1b[38;5;39m${link5}\x1b[37m';
+    const links = '\n\x1b[37mMy Website:\x1b[0m \x1b[38;5;39mhttps://maybetarun.vercel.app/ \n\x1b[37mGitHub:\x1b[0m \x1b[38;5;39mhttps://github.com/maybetarun \n\x1b[37mLinkedIn:\x1b[0m \x1b[38;5;39mhttp://www.linkedin.com/in/maybetarun \n\x1b[37mTwitter(𝕏):\x1b[0m \x1b[38;5;39mhttps://twitter.com/maybetarun \n\x1b[37mInstagram:\x1b[0m \x1b[38;5;39mhttps://instagram.com/maybe._.tarun\x1b[37m';
     console.log('\n');
     console.log('Heyy!! I am \x1b[38;5;39mTarun Gupta\x1b[37m, also known by the alias \x1b[38;5;137mbread. \x1b[38;5;8myou ask why? even idk ;-;');
     console.log('\x1b[37mI am an engineer. \x1b[38;5;8mI can do anything but engineering.');
